@@ -9,7 +9,7 @@ copyright = """
 """
 repo_url = "https://github.com/maksimowiczm/FoodYou"
 extra.generator = false
-nav = ["index.md", "contribute.md", "privacy-policy.md"]
+nav = ["index.md", "privacy-policy.md", "contribute.md"]
 
 [project.extra.consent]
 title = "Cookie consent"
