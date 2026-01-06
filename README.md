@@ -4,11 +4,14 @@ This is source code for the Food You website
 
 ## Development
 
-To run the project locally, you must first install
-[Zensical](https://zensical.org/docs/get-started/). For a seamless
-development experience, it is recommended to use [Nix](https://nixos.org/).
-After that, you can run the following commands to start a local development
-server:
+## Running the Project Locally
+
+To run the project locally, first install [Zensical](https://zensical.org/docs/get-started/).
+
+For a smoother and more reproducible development experience, [Nix](https://nixos.org/) is
+recommended.
+
+After installing the prerequisites, run the following commands to start a local development server:
 
 ```sh
 nix develop
